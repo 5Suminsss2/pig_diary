@@ -1,0 +1,11 @@
+<div class="container abc">
+    <h1 class="lastpig">지영돼지의 일기</h1>
+    <div class="button"><a href="/home/first"><button type="button" class="btn btn-info back">돌아가기</button></a></div>
+    <%posts = Tttheend.all%>
+    <%for post in posts%>
+    <h2 class="dog">날짜</h2>
+    <%=post.title3%>
+    <h2 class="dog">먹은 음식</h2>
+    <%=post.content3%>
+    <%end%>
+</div>

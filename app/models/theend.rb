@@ -1,0 +1,2 @@
+class Theend < ApplicationRecord
+end

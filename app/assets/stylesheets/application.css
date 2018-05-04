@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+
+
+.title{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+.startbox {
+    width: 300px;
+    height: 80px;
+    margin-top:10px;
+    font-size: 50px;
+    font-family: 'Do Hyeon', sans-serif;
+    
+}
+
+a{
+    color:  #ed0034;
+    
+}
+
+
+
+.namelist{
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Do Hyeon', sans-serif;
+    width: 300px;
+    height: 80px;
+}
+
+.button{
+    margin-top:50px ;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.pig{
+    font-family: 'Do Hyeon', sans-serif;
+    color: #f7b7d0;
+    font-size: 150px;
+    text-align: center;
+}
+
+.pigs{
+    font-family: 'Do Hyeon', sans-serif;
+    color: #f7d579;
+    font-size: 150px;
+    text-align: center;
+}
+
+.namebox{
+    margin-top: 30px;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+    width: 300px;
+    height: 80px;
+}
+
+.plusbox{
+    width: 300px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+a:hover {
+    color: white;
+}
+
+.bepig{
+    color: white;
+}
+
+.sam{
+    text-align: center;
+    margin: 0 10px 0 10px;
+    font-family: 'Do Hyeon', sans-serif;
+    
+}
+
+ .quiz{
+      width:1000px;
+      height:1000px;
+      margin: 50px;
+  }
+
+
+.datefood{
+    font-size: 50px;
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+    color: #95d691;
+}
+
+.diarybox{
+    text-align: center;
+    
+}
+
+.store{
+    
+    font-size: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+    
+}
+
+.food {
+    font-size:25pt;
+    width: 400px;
+    display: inline-block;
+    }
+    
+.date{
+    font-size:25pt;
+    width: 300px;
+    display: inline-block;
+    
+}
+
+.lastpig{
+    font-size: 150px;
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+    color: #6f90f2;
+}
+
+.back{
+    font-size: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.dog{
+    font-size: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+    color:;
+}
+
+.abc{
+    text-align: center;
+}
